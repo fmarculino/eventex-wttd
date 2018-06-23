@@ -5,6 +5,7 @@ Sistema de eventos encomendado pela Morena.
 [![Build Status](https://travis-ci.org/fmarculino/eventex-wttd.svg?branch=master)](https://travis-ci.org/fmarculino/eventex-wttd)
 [![Code Health](https://landscape.io/github/fmarculino/eventex-wttd/master/landscape.svg?style=flat)](https://landscape.io/github/fmarculino/eventex-wttd/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f3f7caba9a0374e9936b/maintainability)](https://codeclimate.com/github/fmarculino/eventex-wttd/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f3f7caba9a0374e9936b/test_coverage)](https://codeclimate.com/github/fmarculino/eventex-wttd/test_coverage)
 
 ## Como desenvolver?
 
