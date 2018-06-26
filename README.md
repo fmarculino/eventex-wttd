@@ -6,6 +6,7 @@ Sistema de eventos encomendado pela Morena.
 [![Code Health](https://landscape.io/github/fmarculino/eventex-wttd/master/landscape.svg?style=flat)](https://landscape.io/github/fmarculino/eventex-wttd/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f3f7caba9a0374e9936b/maintainability)](https://codeclimate.com/github/fmarculino/eventex-wttd/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f3f7caba9a0374e9936b/test_coverage)](https://codeclimate.com/github/fmarculino/eventex-wttd/test_coverage)
+[![Coverage Status](https://coveralls.io/repos/github/fmarculino/eventex-wttd/badge.svg?branch=master)](https://coveralls.io/github/fmarculino/eventex-wttd?branch=master)
 
 ## Como desenvolver?
 
@@ -21,7 +22,7 @@ git clone git@github.com:fmarculino/eventex-wttd.git wttd
 cd wttd
 python -m venv .wttd
 source .wttd/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 cp contrib/env-sample .env
 python manage.py test
 ```
